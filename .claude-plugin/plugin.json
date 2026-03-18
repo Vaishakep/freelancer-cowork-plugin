@@ -1,0 +1,20 @@
+{
+  "name": "freelancer",
+  "version": "0.1.0",
+  "description": "Turn Claude into a freelance business partner. Proposals, scoping, client communication, invoicing follow-ups, rate negotiations, and project retrospectives — built for solopreneurs and independent consultants.",
+  "author": {
+    "name": "Vaishak",
+    "url": "https://github.com/Vaishakep"
+  },
+  "repository": "https://github.com/Vaishakep/freelancer-cowork-plugin",
+  "license": "MIT",
+  "keywords": [
+    "freelancer",
+    "solopreneur",
+    "proposals",
+    "client-management",
+    "invoicing",
+    "consulting",
+    "cowork"
+  ]
+}

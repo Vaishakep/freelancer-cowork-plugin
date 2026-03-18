@@ -1,0 +1,63 @@
+{
+  "name": "freelancer",
+  "displayName": "Freelancer Plugin",
+  "version": "0.1.0",
+  "description": "Turn Claude into a freelance business partner. Proposals, scoping, client communication, invoicing follow-ups, rate negotiations, and project retrospectives — built for solopreneurs and independent consultants.",
+  "author": {
+    "name": "Vaishak",
+    "url": "https://github.com/Vaishakep"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vaishakep/freelancer-cowork-plugin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "freelancer",
+    "solopreneur",
+    "proposals",
+    "client-management",
+    "invoicing",
+    "consulting",
+    "cowork",
+    "claude-plugin"
+  ],
+  "categories": [
+    "productivity",
+    "business",
+    "freelancing"
+  ],
+  "skills": [
+    {
+      "name": "proposal-writer",
+      "description": "Generate conversion-focused proposals from job postings, briefs, or intake notes"
+    },
+    {
+      "name": "client-comms",
+      "description": "Draft any client message with the right tone — updates, pushback, bad news, testimonial requests"
+    },
+    {
+      "name": "scope-of-work",
+      "description": "Create professional SOW documents with deliverables, timelines, pricing, and exclusions"
+    },
+    {
+      "name": "invoice-followup",
+      "description": "Escalating payment reminders calibrated to how overdue the invoice is"
+    },
+    {
+      "name": "project-retro",
+      "description": "Generate lessons doc, portfolio case study, and pricing intelligence from completed projects"
+    },
+    {
+      "name": "rate-negotiation",
+      "description": "Handle pricing objections, set rates, and raise prices confidently"
+    }
+  ],
+  "commands": [
+    "/freelancer:write-proposal",
+    "/freelancer:create-sow",
+    "/freelancer:chase-payment",
+    "/freelancer:project-retro",
+    "/freelancer:pricing-help"
+  ]
+}
