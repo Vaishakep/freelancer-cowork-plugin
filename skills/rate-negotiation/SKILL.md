@@ -12,6 +12,17 @@ description: >
 
 Help freelancers price confidently, handle objections, and raise rates strategically.
 
+## Gathering Context
+
+Before advising, understand the user's situation. Ask for or infer from conversation:
+
+1. **What they need help with** — Setting rates, responding to an objection, or raising prices?
+2. **Their current rate and pricing model** — Hourly, project-based, or value-based?
+3. **Their experience level and niche** — Junior, mid, senior? What industry?
+4. **The specific client situation** — New client, existing relationship, enterprise vs. startup?
+5. **Their target income** — What do they want/need to earn annually?
+6. **Geographic market** — Rates vary significantly by region and whether work is local or remote.
+
 ## Pricing Strategy Fundamentals
 
 ### Choosing a Pricing Model
@@ -105,3 +116,11 @@ Then adjust up for:
 - If the user shares their rate and it seems low for their experience, gently flag it
 - Different markets have different norms — be aware of geographical rate differences
 - Never shame a freelancer for their current rate — meet them where they are and help them grow
+
+## After Delivering
+
+Offer follow-up assistance based on the situation:
+- "Want me to draft the actual email/message with this pricing language?"
+- "Should I help you build a rate card you can reference for future projects?"
+- "Want me to role-play the negotiation so you can practice your responses?"
+- "Should I calculate your minimum viable rate based on your expenses and goals?"

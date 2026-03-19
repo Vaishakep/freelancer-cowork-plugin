@@ -92,6 +92,16 @@ Generate a pricing note for the user's reference:
 - Verdict: Profitable / Break-even / Underpriced
 - Recommendation: "For similar projects, quote $[adjusted amount] or add [specific buffer]"
 
+## Rules
+
+- Never judge or criticize the user's pricing decisions — help them learn for next time
+- Be honest about profitability numbers even if they're uncomfortable
+- Focus on actionable changes, not abstract lessons
+- Keep the case study positive and forward-looking — it's a marketing asset
+- Always ask permission before suggesting the user publish anything about a client
+- If the effective hourly rate is below minimum wage for their region, flag it gently but clearly
+- Treat every project as a data point — even bad ones generate valuable pricing intelligence
+
 ## Output Format
 
 Present all three outputs clearly labeled. The user should be able to save each one separately.
