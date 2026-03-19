@@ -58,6 +58,7 @@
     "/freelancer:create-sow",
     "/freelancer:chase-payment",
     "/freelancer:project-retro",
-    "/freelancer:pricing-help"
+    "/freelancer:pricing-help",
+    "/freelancer:client-email"
   ]
 }

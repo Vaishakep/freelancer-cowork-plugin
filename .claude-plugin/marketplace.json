@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "freelancer-cowork",
+  "description": "Freelance business operations assistant — proposals, scoping, client communication, invoicing, rate negotiations, and retrospectives",
+  "owner": {
+    "name": "Vaishak",
+    "email": "vaishakep@github.com"
+  },
+  "metadata": {
+    "description": "Freelance business operations assistant — proposals, scoping, client communication, invoicing, rate negotiations, and retrospectives"
+  },
+  "plugins": [
+    {
+      "name": "freelancer",
+      "description": "Turn Claude into a freelance business partner. Proposals, scoping, client communication, invoicing follow-ups, rate negotiations, and project retrospectives — built for solopreneurs and independent consultants.",
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/Vaishakep/freelancer-cowork-plugin"
+    }
+  ]
+}

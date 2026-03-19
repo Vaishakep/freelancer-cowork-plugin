@@ -92,6 +92,14 @@ Generate a pricing note for the user's reference:
 - Verdict: Profitable / Break-even / Underpriced
 - Recommendation: "For similar projects, quote $[adjusted amount] or add [specific buffer]"
 
+## Rules
+
+- Never publish client details in a case study without the user confirming they have permission
+- Be honest about profitability — if the project was underpriced, say so clearly
+- Focus on actionable changes, not blame — "next time, scope brand guidelines separately" not "you should have known better"
+- If estimation accuracy is below 80%, flag it as a systemic issue that needs a process change, not just a bigger buffer
+- Treat the effective hourly rate as the single most important metric — always calculate and highlight it
+
 ## Output Format
 
 Present all three outputs clearly labeled. The user should be able to save each one separately.

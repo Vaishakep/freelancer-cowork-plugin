@@ -105,3 +105,11 @@ Then adjust up for:
 - If the user shares their rate and it seems low for their experience, gently flag it
 - Different markets have different norms — be aware of geographical rate differences
 - Never shame a freelancer for their current rate — meet them where they are and help them grow
+
+## After the Draft
+
+Offer:
+- "Want me to draft a follow-up if the client pushes back again?"
+- "Should I help scope a reduced version that fits their budget?"
+- "Want me to calculate your minimum viable rate for this type of work?"
+- "Should I draft the rate increase email for your other clients too?"
