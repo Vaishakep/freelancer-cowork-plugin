@@ -1,6 +1,10 @@
 ---
 name: project-retro
-description: Run a freelance project retrospective to extract lessons, build case studies, and improve future pricing. Trigger with "project review", "retro", "retrospective", "post-mortem", "I just finished a project", "lessons learned", "case study", or "help me review how that project went."
+description: >
+  Run a freelance project retrospective to extract lessons, build case studies, and improve
+  future pricing. Trigger when the user mentions project review, retro, retrospective, post-mortem,
+  project wrap-up, "what went well", lessons learned, case study creation, or finishing a project.
+  Also trigger for "I just finished a project" or "help me review how that project went."
 ---
 
 # Freelance Project Retrospective

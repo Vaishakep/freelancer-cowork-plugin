@@ -1,6 +1,10 @@
 ---
 name: scope-of-work
-description: Generate a professional Scope of Work (SOW) document for freelance projects. Trigger with "create a SOW", "scope of work", "project scope", "statement of work", "project agreement", "define deliverables", or when the user needs to document what's included and excluded in a project.
+description: >
+  Generate a professional Scope of Work (SOW) document for freelance projects. Trigger when the
+  user mentions SOW, scope of work, project scope, statement of work, work agreement, project
+  agreement, defining deliverables, or formalizing a project. Also trigger when a user has
+  agreed on a project with a client and needs to document what's included and excluded.
 ---
 
 # Scope of Work Generator

@@ -1,6 +1,10 @@
 ---
 name: invoice-followup
-description: Handle overdue invoice follow-ups and payment chasing for freelancers. Trigger with "they haven't paid", "overdue invoice", "chase payment", "late payment", "payment reminder", "how do I ask for payment", "my client is ghosting me on payment", or any payment-related client issue.
+description: >
+  Handle overdue invoice follow-ups and payment chasing for freelancers. Trigger when the user
+  mentions unpaid invoices, late payments, chasing payments, clients not paying, overdue invoices,
+  payment reminders, collections, "they haven't paid me", or any payment-related client issue.
+  Also trigger for "how do I ask for payment" or "my client is ghosting me on payment."
 ---
 
 # Invoice Follow-Up System
