@@ -1,11 +1,6 @@
 ---
 name: rate-negotiation
-description: >
-  Help freelancers negotiate rates, handle pricing objections, and raise prices confidently.
-  Trigger when the user mentions pricing, rates, negotiation, "client says too expensive",
-  rate increase, pricing strategy, hourly vs project rate, value-based pricing, discounts,
-  "how much should I charge", or any conversation about freelance pricing and money.
-  Also trigger for "should I lower my price" or "the client wants a discount."
+description: Help freelancers negotiate rates, handle pricing objections, and raise prices confidently. Trigger with "how much should I charge", "client says too expensive", "raise my rates", "pricing strategy", "should I lower my price", "the client wants a discount", or any conversation about freelance pricing and money.
 ---
 
 # Freelance Rate Negotiation

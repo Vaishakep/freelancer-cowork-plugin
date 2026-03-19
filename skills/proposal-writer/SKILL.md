@@ -1,11 +1,6 @@
 ---
 name: proposal-writer
-description: >
-  Write winning freelance proposals from a client brief, job posting, or intake call notes.
-  Trigger when the user mentions writing a proposal, pitching a client, responding to an RFP,
-  bidding on a project, replying to a job post, or drafting a pitch. Also trigger when the user
-  pastes a job description and wants to respond, or says things like "help me land this client"
-  or "write a bid for this project."
+description: Write winning freelance proposals from a client brief, job posting, or intake call notes. Trigger with "write a proposal", "pitch this client", "bid on this project", "respond to this job post", "help me land this client", or when the user pastes a job description and wants to respond.
 ---
 
 # Freelance Proposal Writer

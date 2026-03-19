@@ -1,11 +1,6 @@
 ---
 name: client-comms
-description: >
-  Draft professional client communications for freelancers. Trigger when the user needs to
-  write a client email, message a client, send a project update, deliver bad news to a client,
-  push back on scope creep, ask for feedback, request a testimonial, follow up on a proposal,
-  re-engage a cold lead, or handle any client-facing communication. Also trigger for
-  "how do I tell my client..." or "help me respond to this client message."
+description: Draft professional client communications for freelancers. Trigger with "email my client", "send a project update", "push back on scope creep", "request a testimonial", "how do I tell my client...", "help me respond to this client message", or any client-facing communication need.
 ---
 
 # Freelance Client Communications
